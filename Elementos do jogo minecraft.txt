@@ -1,0 +1,38 @@
+Minecraft
+
+Personagens:
+PCs - jogador (Steve, o jogador escolhe)
+NPCs - monstros (aranha, zumbi, esqueleto, creeper, bruxa, Nether, End, 
+       etc, naufragado) 
+       villagers, golem, animais pacíficos (peixe, vaca, porco, ovelha,
+       coelho, raposa, gato, lobo, panda)
+
+Objetivo:
+Matar o Ender Dragon
+Sobreviver
+Criação (animais, casa, mecanismos)
+Explorar
+
+Regras:
+Sobreviver - monstros/lava (vida), morrer afogado (bolha),
+             fome (comida), queda
+Regras de criação (ferramentas, cama, etc)
+Regras de encantamentos
+
+Equilíbrio:
+Mais fácil - lugares abertos e luminosidade, armadura, comida, vilas,
+	     cogumelos, villagers, golem , biomas
+Mais difícil - noite, Nether, monstros, biomas
+
+Adaptabilidade:
+À medida que vamos avançando, vamos explorando mais e vai ficando
+mais difícil
+
+Elementos de Acaso:
+Monstros, biomas e cenários
+
+Elementos de Habilidade:
+Combate, criação, sistema de redstone
+
+História:
+Jogador que faz

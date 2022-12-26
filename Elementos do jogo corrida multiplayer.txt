@@ -1,0 +1,36 @@
+Jogo de Corrida Multiplayer
+
+Personagens:
+PCs (personagens jogáveis) - carro
+NPCs (personagens não-jogáveis) - moedas, gasolina, obstáculos, oponente
+
+Objetivo:
+Chegar na linha de chegada primeiro
+
+Regras:
+Para controlar o carrinho, usar as setas direcionais
+O jogo começa quando os dois jogadores apertam o botão de jogar
+O jogo termina: 1- quando acaba o combustível
+		2- quando acaba a vida
+		3- quando chega na linha de chegada
+À medida que o carrinho anda, o combustível baixa
+Completamos o combustível coletando o tanque de gasolina do mapa
+Aumentamos a pontuação do jogo quando coletamos moedas
+A vida abaixa quando colidimos com os obstáculos ou com o outro carro
+
+Equilíbrio:
+Mais fácil- tanque de gasolina, aceleração para cima
+Mais difícil- obstáculos, sistema de baixar a vida e combustível
+
+Adaptabilidade:
+Não se aplica
+
+Elementos de Acaso:
+Tanque de combustível, moeda, o jogador oponente
+
+Elementos de Habilidade:
+Obstáculos
+
+História:
+Um cara desafia você e você tem que competir em uma corrida,
+valendo o seu carro
